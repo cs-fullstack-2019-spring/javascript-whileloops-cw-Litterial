@@ -1,3 +1,5 @@
+### KEY: Good job and great comments!
+
 # JavaScript-whileloops-cw
 Classwork: JavaScript While/Do While Loops
 
